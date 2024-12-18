@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, AIML, LCNC Tools**
 
-- 💬 Ask me about **Web Development, LCNC Platforms**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **kavikarpagam6@gmail.com**
 
